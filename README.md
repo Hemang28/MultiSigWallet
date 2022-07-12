@@ -8,8 +8,9 @@ A scalable multi-signature wallet contract, which requires a minimum of 60% auth
 
 ### Testnet Deploy
 
-- Contract address: 0x9d09DA959BBdcf7978416dE54532bd711454c676
-- [Ropsten Network Deployement here]
+- contract address(multisig): 0x4BD958aB67Ab75347317B02f1C3fd70019BF9312
+- contract address(accesscontrolwallet): 0x193aBE8e2DB41B1a36476A1a8A3f4D859adA955d
+- Ropsten Network Deployement here
 - [For MultiSigWallet] - (https://ropsten.etherscan.io/address/0x4BD958aB67Ab75347317B02f1C3fd70019BF9312)
 - [For AccessControlWallet of MultiSig] - (https://ropsten.etherscan.io/address/0x193aBE8e2DB41B1a36476A1a8A3f4D859adA955d)
 
